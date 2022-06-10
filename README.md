@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eva-D-ev
-- 👀 I’m interested in Discord Bots/Websites/Game Server/Pterodactyl panel/More!
+- 👀 I’m interested in Discord Bots/Websites/Game Servers/Pterodactyl panel/More!
 - 🌱 I’m currently learning Lua
 - 💞️ My Age: 18
 - 📫 How to reach me Eva.Dcw@Gmail.com
